@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is [Tingkai Liu](https://www.tingkai-liu.org), and I'm a [NeuroAI](https://www.cshl.edu/research/neuroscience/neuroai/) researcher at [Cold Spring Harbor Laboratory](https://www.cshl.edu).
+My research covers a broad range of topics from LLMs, Multimodal Foundation Models to Computational Neuroscience.
+
 
 <!--
 **TK-21st/TK-21st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
